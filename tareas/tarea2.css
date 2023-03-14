@@ -1,0 +1,23 @@
+#titulo {
+  text-shadow: 2px 2px black;
+}
+
+#linea1 {
+  background-color: yellow;
+}
+
+#linea2 {
+  color: green;
+}
+.linea3y4 {
+  background-color: black;
+  color: white;
+}
+.linea5y6 {
+  color: blue;
+}
+
+#linea7 {
+  text-shadow: 2px 2px black;
+  font-size: 25px;
+}
