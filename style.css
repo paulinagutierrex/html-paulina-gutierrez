@@ -1,5 +1,21 @@
 #man {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 200px;
+  margin-right: 200px;
+  width: 110px;
+  height: 120px;
+}
+#macnelly {
+  display: block;
+  margin-left: 10px;
+  margin-right: 400px;
+  width: 110px;
+  height: 120px;
+}
+#reme {
+  display: block;
+  margin-left: 10px;
+  margin-right: 400px;
+  width: 110px;
+  height: 120px;
 }
