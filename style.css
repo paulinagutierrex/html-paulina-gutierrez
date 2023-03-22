@@ -4,6 +4,7 @@
   margin-right: 200px;
   width: 110px;
   height: 120px;
+  filter: drop-shadow(5px 5px green);
 }
 #macnelly {
   display: block;
@@ -11,11 +12,13 @@
   margin-right: 400px;
   width: 110px;
   height: 120px;
+  filter: drop-shadow(5px 5px black);
 }
-#reme {
+#rene {
   display: block;
-  margin-left: 10px;
-  margin-right: 400px;
+  margin-left: 300px;
+  margin-right: 10px;
   width: 110px;
   height: 120px;
+  filter: drop-shadow(5px 5px green);
 }
